@@ -109,3 +109,5 @@ C:\Users\AnthonyLarrea\Desktop\dogs-test\TestDogs\obj\Debug\net6.0\refint\TestDo
 C:\Users\AnthonyLarrea\Desktop\dogs-test\TestDogs\obj\Debug\net6.0\TestDogs.pdb
 C:\Users\AnthonyLarrea\Desktop\dogs-test\TestDogs\obj\Debug\net6.0\TestDogs.genruntimeconfig.cache
 C:\Users\AnthonyLarrea\Desktop\dogs-test\TestDogs\obj\Debug\net6.0\ref\TestDogs.dll
+C:\Users\AnthonyLarrea\Desktop\dogs-test\TestDogs\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\AnthonyLarrea\Desktop\dogs-test\TestDogs\bin\Debug\net6.0\Moq.dll

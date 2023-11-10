@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dogs-test", "dogs-test\dogs-test.csproj", "{B7330873-4AE6-4869-9387-CBD065381CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dogs-test", "dogs-test\dogs-test.csproj", "{B7330873-4AE6-4869-9387-CBD065381CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDogs", "TestDogs\TestDogs.csproj", "{3BFBE37C-523B-4E38-82DD-38D840CC826D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDogs", "TestDogs\TestDogs.csproj", "{3BFBE37C-523B-4E38-82DD-38D840CC826D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{FA84DF01-720B-4486-89E4-4296E124DBD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3BFBE37C-523B-4E38-82DD-38D840CC826D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BFBE37C-523B-4E38-82DD-38D840CC826D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BFBE37C-523B-4E38-82DD-38D840CC826D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA84DF01-720B-4486-89E4-4296E124DBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA84DF01-720B-4486-89E4-4296E124DBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA84DF01-720B-4486-89E4-4296E124DBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA84DF01-720B-4486-89E4-4296E124DBD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
