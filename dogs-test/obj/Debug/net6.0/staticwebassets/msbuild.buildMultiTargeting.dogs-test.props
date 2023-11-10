@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dogs-test.props" />
+</Project>
